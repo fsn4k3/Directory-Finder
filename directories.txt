@@ -1,0 +1,14 @@
+admin
+new
+uploads
+images
+public
+wp-admin
+wp-content
+wp-includes
+config
+data
+page
+9
+main
+series
