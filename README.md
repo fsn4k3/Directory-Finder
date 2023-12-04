@@ -1,6 +1,5 @@
 # Directory-Finder
-This is a tool to help you brute forcing website sub-domains and dirs.
-
+This tool is engineered to facilitate the identification of sub-domains and directories through an efficient and targeted brute-force approach. Enhance your cybersecurity toolkit with this versatile tool for comprehensive web application testing. #Python #Cybersecurity #WebSecurity #BruteForce"
 # Install
 
 
