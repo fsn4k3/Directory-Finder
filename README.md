@@ -22,8 +22,12 @@ pip install -r requirements.txt
 ```
 chmod 777 -R dir-finder.py
 ```
+
+Done...
+
+
+# Usage
+
 ```
 python3 dir-finder.py 
 ```
-
-Done...
