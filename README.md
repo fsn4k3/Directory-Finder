@@ -1,5 +1,5 @@
 # Directory-Finder
-This tool is engineered to facilitate the identification of sub-domains and directories through an efficient and targeted brute-force approach. Enhance your cybersecurity toolkit with this versatile tool for comprehensive web application testing. #Python #Cybersecurity #WebSecurity #BruteForce"
+This tool is engineered to facilitate the identification of sub-domains and directories through an efficient and targeted brute-force approach. Enhance your cybersecurity toolkit with this versatile tool for comprehensive web application testing.
 # Install
 
 
