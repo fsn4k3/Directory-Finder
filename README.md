@@ -1,6 +1,8 @@
 # Directory-Finder
 This tool is engineered to facilitate the identification of sub-domains and directories through an efficient and targeted brute-force approach.
 
+
+# Install
 ```
 sudo apt-get install git -y
 ```
