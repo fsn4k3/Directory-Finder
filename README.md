@@ -2,6 +2,7 @@
 This is a tool to help you brute forcing website sub-domains and dirs.
 
 <br />
+
 ![ezgif com-video-to-gif](https://github.com/fsn4k3/Directory-Finder/assets/70797855/1b4dbb6c-dba3-4838-bb87-3f1a4fb4d80f)
 
 
