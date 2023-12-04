@@ -1,5 +1,5 @@
 # Directory-Finder
-This tool is engineered to facilitate the identification of sub-domains and directories through an efficient and targeted brute-force approach.
+This is a tool to help you brute forcing website sub-domains and dirs.
 
 
 # Install
