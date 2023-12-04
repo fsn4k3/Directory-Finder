@@ -1,4 +1,5 @@
 # Directory-Finder
+This is a tool to help you brute forcing website sub-domains and dirs.
 
 # Install
 
