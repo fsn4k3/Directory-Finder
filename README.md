@@ -5,7 +5,7 @@ This is a tool to help you brute forcing website sub-domains and dirs.
 
 
 ```
-sudo apt-get install git python3 -y
+sudo apt-get install git -y
 ```
 
 ```
