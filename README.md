@@ -1,13 +1,11 @@
 # Directory-Finder
 This is a tool to help you brute forcing website sub-domains and dirs.
-
+![1](https://github.com/fsn4k3/Directory-Finder/assets/70797855/07f46d6c-a5e1-45b2-b108-552c04b5f3e5)
 
 # Install
 ```
 sudo apt-get install git -y
 ```
-![1](https://github.com/fsn4k3/Directory-Finder/assets/70797855/07f46d6c-a5e1-45b2-b108-552c04b5f3e5)
-
 
 ```
 git clone https://github.com/fsn4k3/Directory-Finder/
